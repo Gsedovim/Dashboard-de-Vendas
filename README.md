@@ -73,3 +73,9 @@ O dashboard foi desenvolvido no Power BI com o objetivo de fornecer uma visão c
 * Promoções influenciam diretamente a margem de lucro
 * Existe variação significativa nas vendas ao longo dos meses (sazonalidade)
 * Algumas categorias vendem muito em volume, mas não necessariamente em valor
+
+---
+
+## 👤 Autor
+
+Gabriel Sedovim
