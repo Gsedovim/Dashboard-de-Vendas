@@ -1,4 +1,7 @@
 <img width="1270" height="714" alt="Screenshot_8" src="https://github.com/user-attachments/assets/84308ea9-8bb5-4fbe-845e-732b78a5068e" />
+
+---
+
 ### 📈 Dashboard de Análise de Vendas
 
 O dashboard foi desenvolvido no Power BI com o objetivo de fornecer uma visão completa do desempenho de vendas, permitindo análises estratégicas sobre produtos, categorias, promoções e comportamento ao longo do tempo.
